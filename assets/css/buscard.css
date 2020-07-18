@@ -9,9 +9,9 @@ body{
     z-index: -1;
     border-color: #000000;
     border-style: double;
-   
 }
 .img1{
+    position: absolute;
     z-index: 5;
 }
 .img2{
@@ -205,6 +205,122 @@ body{
     top: 123.6px;
     opacity: 0.1;
 }
+.img27{
+    position: absolute;
+    width: 107.3px;
+    height: 103.3px;
+    left: 486.78px;
+    top: 241.91px;
+    opacity: 0.1;
+}
+.img28{
+    position: absolute;
+    width: 61.44px;
+    height: 59.86px;
+    left: 486.78px;
+    top: 242.91px;
+    opacity: 0.1;
+}   
+.img29{
+    position: absolute;
+    width: 47.86px;
+    height: 59.86px;
+    left: 546.08px;
+    top: 241.91px;
+    opacity: 0.1;
+}
+
+
+.img30{
+    position: absolute;
+    width: 61.44px;
+    height: 43.44px;
+    left: 488.22px;
+    top: 301.21px;
+    opacity: 0.1;
+}
+.img31{
+    position: absolute;
+    width: 44.86px;
+    height: 42.44px;
+    left: 549.22px;
+    top: 302.21px;
+    opacity: 0.1;
+}
+.img32{
+    position: absolute;
+    width: 63.86px;
+    height: 62.3px;
+    left: 424.45px;
+    top: 245.46px;
+    opacity: 0.1;
+}
+.img33{
+    position: absolute;
+    width: 58.86px;
+    height: 62.3px;
+    left: 366.9px;
+    top: 245.46px;
+    opacity: 0.1;
+}
+.img34{
+    position: absolute;
+    width: 58.86px;
+    height: 39.3px;
+    left: 429.45px;
+    top: 305.45px;
+    opacity: 0.1;
+}
+.img35{
+    position: absolute;
+    width: 58.86px;
+    height: 39.3px;
+    left: 366.4px;
+    top: 305.45px;
+    opacity: 0.1;
+}
+.img36{
+    position: absolute;
+    width: 122.88px;
+    height: 101px;
+    left: 244.6px;
+    top: 243.91px;
+    opacity: 0.1;
+}
+.img37{
+    position: absolute;
+    width: 120px;
+    height: 100px;
+    left: 247.48px;
+    top: 244.21px;
+    opacity: 0.1;
+}
+.img38{
+    position: absolute;
+    width: 120px;
+    height: 101px;
+    left: 128.3px;
+    top: 244.21px;
+    opacity: 0.1;
+}
+.img39{
+    position: absolute;
+    width: 120px;
+    height: 101px;
+    left: 128px;
+    top: 244.91px;
+    opacity: 0.1;
+}
+.img40{
+    position: absolute;
+    width: 47.26px;
+    height: 40.26px;
+    left: 143.17px;
+    top: 304.77px;
+    opacity: 0.1;
+}
+
+
 
 
 
