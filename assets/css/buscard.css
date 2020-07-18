@@ -12,7 +12,7 @@ body{
    
 }
 .img1{
-    z-index: 1;
+    z-index: 5;
 }
 .img2{
     position: absolute;
@@ -23,7 +23,7 @@ body{
 }
 .img3{
     position: absolute;
-    width: 49px;
+    width: 48px;
     height: 49.5px;
     left: 511px;
     top: 3px;
@@ -88,6 +88,124 @@ body{
     transform: matrix(-1, 0, 0, 1, 0, 0);
     opacity: 0.05;
 }
+
+
+.img14{
+    position: absolute;
+    width: 59.86px;
+    height: 121.3px;
+    left: 246.18px;
+    top: 3px;
+    opacity: 0.1;
+}
+
+.img15{
+    position: absolute;
+    width: 45.69px;
+    height: 47.26px;
+    left: 192.73px;
+    top: 18.33px;
+    opacity: 0.1;
+}
+
+.img16{
+    position: absolute;
+    width: 59.86px;
+    height: 61.44px;
+    left: 124.74px;
+    top: 62.5px;
+    z-index: 1;
+    opacity: 0.1;
+}
+
+.img17{
+    position: absolute;
+    width: 108.5px;
+    height: 121.3px;
+    left: 485.0px;
+    top: 122px;
+    opacity: 0.1;
+}
+
+
+.img18{
+    position: absolute;
+    width: 61.44px;
+    height: 59.86px;
+    left: 426px;
+    top: 123.47px;
+    opacity: 0.1;
+}
+
+.img19{
+    position: absolute;
+    width: 43.3px;
+    height: 59.86px;
+    left: 550.22px;
+    top: 120.47px;
+    opacity: 0.1;
+}
+
+.img20{
+    position: absolute;
+    width: 61.44px;
+    height: 61.44px;
+    left: 424.78px;
+    top: 183.47px;
+    opacity: 0.1;
+}
+
+.img21{
+    position: absolute;
+    width: 61.44px;
+    height: 121.3px;
+    left: 365.91px;
+    top: 123.6px;
+    opacity: 0.1;
+}
+
+.img22{
+    position: absolute;
+    width: 47.26px;
+    height: 47.26px;
+    left: 310.88px;
+    top: 137.78px;
+    opacity: 0.1;
+}
+
+.img23{
+    position: absolute;
+    width: 121.3px;
+    height: 121.3px;
+    left: 245.6px;
+    top: 123.6px;
+    opacity: 0.1;
+}
+.img24{
+    position: absolute;
+    width: 121.3px;
+    height: 121.3px;
+    left: 245.91px;
+    top: 123.6px;
+    opacity: 0.1;
+}
+.img25{
+    position: absolute;
+    width: 121.3px;
+    height: 121.3px;
+    left: 125.3px;
+    top: 123.6px;
+    opacity: 0.1;
+}
+.img26{
+    position: absolute;
+    width: 121.3px;
+    height: 121.3px;
+    left: 125.3px;
+    top: 123.6px;
+    opacity: 0.1;
+}
+
 
 
 .div2{
