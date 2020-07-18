@@ -24,17 +24,17 @@ body{
 .img3{
     position: absolute;
     width: 49px;
-    height: 97px;
+    height: 49.5px;
     left: 511px;
-    top: -44px;
+    top: 3px;
     z-index: 3;
 }
 .img4{
     position: absolute;
     width: 49px;
-    height: 99px;
+    height: 49.5px;
     left: 515px;
-    top: -46px;
+    top: 3px;
 }
 .img5{
     position: absolute;
@@ -148,6 +148,7 @@ body{
     /* black */
     color: #191919;
     display: inline;
+    padding-left: 12px;
 }
 .hh4{
     font-family: Gilroy;
@@ -158,43 +159,30 @@ body{
     padding-left: 29px;
     margin-top: 0px;
 }
-.hh5{
+
+.hh5, .hh6, .hh7{
     font-family: Gilroy-Medium;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 14px;
-    /* identical to box height, or 100% */
     letter-spacing: -0.02em;
-    /* black */
     color: #191919;
+}
+.hh5{
     display: inline;
+    padding-left: 13px;
     
 }
 .hh6{
-    font-family: Gilroy-Medium;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 14px;
-    /* identical to box height, or 100% */
-    letter-spacing: -0.02em;
-    /* black */
-    color: #191919;
-    display: inline;
+    padding-left: 26px;
+    margin-top: -16px;
 }
 
 .hh7{
-    display: inline;
-    font-family: Gilroy-Medium;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 14px;
-    /* or 100% */
-    letter-spacing: -0.02em;
-    /* black */
-    color: #191919;
+    width: 220px;
+    padding-left: 26px;
+    margin-top: -18px;
 }
 .div3{
     padding-top: 6px;
